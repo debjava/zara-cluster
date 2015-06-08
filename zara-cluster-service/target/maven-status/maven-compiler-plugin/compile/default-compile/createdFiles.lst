@@ -1,0 +1,4 @@
+com\itc\zara\cluser\service\AbstractBasicService.class
+com\itc\zara\service\user\IUserService.class
+com\itc\zara\cluser\service\ICoreService.class
+com\itc\zara\service\user\impl\UserServiceImpl.class

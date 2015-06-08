@@ -1,0 +1,4 @@
+com\itc\zara\dao\user\impl\UserDAOImpl.class
+com\itc\zara\dao\AbstractCoreDAO.class
+com\itc\zara\dao\user\IUserDAO.class
+com\itc\zara\dao\ICoreDAO.class
